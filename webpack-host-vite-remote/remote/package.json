@@ -1,0 +1,19 @@
+{
+  "name": "webpack-host-vite-remote_remote",
+  "version": "0.0.1",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite --port 5004"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@module-federation/vite": "0.2.8",
+    "@softarc/native-federation": "2.0.8",
+    "@softarc/native-federation-esbuild": "2.0.8",
+    "vite": "4.5.2"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "federation-compatibility",
+  "version": "0.0.1",
+  "description": "Module Federation and Native Federation compatibility examples",
+  "author": "Kai Kimberg <565754+kaidjohnson@users.noreply.github.com>",
+  "license": "ISC",
+  "scripts": {
+    "dev": "pnpm --filter './*' --parallel run dev"
+  },
+  "engines": {
+    "pnpm": "^8.10.2"
+  }
+}
